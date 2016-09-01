@@ -21,3 +21,9 @@
 * Alternative link: https://htmlpreview.github.io/?https://github.com/ShawnUrbach/interview/blob/master/Solution%203/index.html
 
 * ASSUMPTIONS:
+
+* I made this map using a combination of Leaflet.js and Chart.js.
+
+* I put the two geojson layers (Neighborhoods and Census Tracts) into separate layers so that the user may choose one as viewable at a time.
+
+* 
