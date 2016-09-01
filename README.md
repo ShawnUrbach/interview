@@ -15,7 +15,7 @@
 
 * testfile.txt already contains 17 lines of random numbers, spaces and uppercase/lowercase letters.
 
-* Another option would be to use randomgen.py (also Python 3.5) to generate a text file consisting of 10,000 lines of random 1-3 digit numbers followed by 1-1000 characters of letters.
+* Another option would be to use randomgen.py (also Python 3.5) to generate a text file consisting of 10,000 lines of random 1-3 digit numbers followed by 1-1,000 characters of letters.
 
 * Output file of sorting.py is called sorted.txt.
 
@@ -23,11 +23,11 @@
 
 * sorting.py includes functions for inserting whitespace between numbers and other characters (if none exists) and removing multiple whitespace (if more than one space exists) for a cleaner output.
 
-* It will sort numbers first and then by the first character following the space after the number.
+* It will sort numbers first and then alpahebtically following the space after the number.
 
-* Sorting should work correctly whether the input file contains floats, lines with no whitespace, lines with multiple whitespace, only letters, or only numbers.
+* Sorting will work correctly whether the input file contains floats, lines with no whitespace, lines with multiple whitespace, only letters, or only numbers.
 
-* Tested with files of 100,000+ lines including all combinations above. 
+* Tested with files of 100,000+ lines including all alphanumeric combinations above. 
 
 ## Problem #3:
 * The user wants to visualize the following geojson layers ([1](https://github.com/mysidewalk/interview/blob/master/assets/kc-neighborhoods.json), [2](https://github.com/mysidewalk/interview/blob/master/assets/kc-tracts.json)) together on a map along with a chart of their commuter population attributes in an interactive manner.
