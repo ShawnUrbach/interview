@@ -26,4 +26,12 @@
 
 * I put the two geojson layers (Neighborhoods and Census Tracts) into separate layers so that the user may choose one as viewable at a time.
 
-* 
+* I decided that the best way to visualize the commuter pattern information was through a choropleth map.  
+
+* The map is colored in a way so that areas where more people walk or take public transportation to work (vs. car or carpool) are shaded in darker colors of red.
+
+* The specific commuter population attributes are shown via popup labels when the user hovers over an area.
+
+* The information in the chart at the bottom is drawn from the Neighborhoods geojson layer.
+
+* As you can see, Manheim Park is the neighborhood with the highest percentage of people either walking or taking public transportation to work (at 53%).
