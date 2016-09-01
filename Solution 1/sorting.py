@@ -47,6 +47,7 @@ def main():
     # Open input file and write contents to new file.
     read_and_write(filename)
 
+
 if __name__ == "__main__":
     
     # Captures numbers for sorting key
