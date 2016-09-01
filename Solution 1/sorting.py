@@ -6,7 +6,6 @@ import sys
 
 # Key for sorting
 
-
 def sort_key(s):
     return [float(text) if text.isdigit() else text.lower()
             for text in re.split(regdigits, s)]
