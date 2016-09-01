@@ -10,8 +10,8 @@ def sort_key(s):
     return [float(text) if text.isdigit() else text.lower()
             for text in re.split(regdigits, s)]
 
-# Open input file and write contents to new file.
 
+# Open input file and write contents to new file.
 
 def read_and_write(inputfile):
     try:
@@ -22,16 +22,16 @@ def read_and_write(inputfile):
     except OSError:
         print('File not found. Please try again.')
 
-# Inserts whitespace if none exists
 
+# Inserts whitespace if none exists
 
 def insert_whitespace(sortfile):
     for line in first_sort:
         wspace = re.sub(r'([0-9]+)([a-zA-Z])', r'\1 \2', line)
         sortfile.write(wspace)
 
-# Removes multiple whitespace
 
+# Removes multiple whitespace
 
 def remove_whitespace(sortfile):
     for line in first_sort:
@@ -42,7 +42,6 @@ def remove_whitespace(sortfile):
 def main():
 
     # User inputs path of file to be sorted
-
     filename = input("Enter path of the file to be sorted: ")
         
     # Open input file and write contents to new file.
@@ -71,7 +70,9 @@ if __name__ == "__main__":
             lines = first_sort.readlines()
             lines.sort(key=sort_key)
             newlines = final_sort.writelines(lines)
+
           
 # Cleanup/ success confirmation
+
 os.remove('unsorted.txt')
 print('sorted.txt complete.')
