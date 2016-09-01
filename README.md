@@ -13,11 +13,13 @@
 
 * At the prompt, type in the path of the existing text file you wish to sort.
 
-* testfile.py is provided to 
+* testfile.txt already contains 17 lines of random numbers, spaces and uppercase/lowercase letters.
 
 * Another option would be to use randomgen.py (also Python 3.5) to generate a text file consisting of 10,000 lines of random 1-3 digit numbers followed by 1-1000 characters of letters.
 
 * ASSUMPTIONS:
+
+
 
 ## Problem #3:
 * The user wants to visualize the following geojson layers ([1](https://github.com/mysidewalk/interview/blob/master/assets/kc-neighborhoods.json), [2](https://github.com/mysidewalk/interview/blob/master/assets/kc-tracts.json)) together on a map along with a chart of their commuter population attributes in an interactive manner.
