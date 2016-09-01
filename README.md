@@ -16,7 +16,7 @@
 
 ## Solution #3:
 * Instructions:
-* View interactive map at: https://cdn.rawgit.com/ShawnUrbach/interview/master/Solution%203/index.html OR: https://htmlpreview.github.io/?https://github.com/ShawnUrbach/interview/blob/master/Solution%203/index.html
-* 
+* View interactive map at: https://cdn.rawgit.com/ShawnUrbach/interview/master/Solution%203/index.html 
+* Alternative link: https://htmlpreview.github.io/?https://github.com/ShawnUrbach/interview/blob/master/Solution%203/index.html
 
 * Assumptions:
