@@ -7,7 +7,15 @@
 * The user has a file that is made up of short (less than 1000 character) strings, each on a different line (assume any common character or character combination that means a newline to someone might be used interchangeably in this file). Most of these strings will be preceded by numbers, i.e. “2 Steaks”, “10 Chicken Wings”, “343GuiltySparks”. Accept the file from the user and return them a file with the same items sorted first by the numeric value of any leading number (2 < 10 < 343) and then alphabetically for the rest of the string.
 
 ## Solution #1:
-* INSTRUCTIONS:
+* INSTRUCTIONS:  
+
+* Use Python 3.5 to open sorting.py.  
+
+* At the prompt, type in the path of the existing text file you wish to sort.
+
+* testfile.py is provided to 
+
+* Another option would be to use randomgen.py (also Python 3.5) to generate a text file consisting of 10,000 lines of random 1-3 digit numbers followed by 1-1000 characters of letters.
 
 * ASSUMPTIONS:
 
@@ -18,6 +26,7 @@
 * INSTRUCTIONS:
 
 * View interactive map at: https://cdn.rawgit.com/ShawnUrbach/interview/master/Solution%203/index.html 
+
 * Alternative link: https://htmlpreview.github.io/?https://github.com/ShawnUrbach/interview/blob/master/Solution%203/index.html
 
 * ASSUMPTIONS:
