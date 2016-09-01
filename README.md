@@ -15,6 +15,6 @@
 * The user wants to visualize the following geojson layers ([1](https://github.com/mysidewalk/interview/blob/master/assets/kc-neighborhoods.json), [2](https://github.com/mysidewalk/interview/blob/master/assets/kc-tracts.json)) together on a map along with a chart of their commuter population attributes in an interactive manner.
 
 ## Solution #3:
-*Instructions:
+* Instructions:
 
-*Assumptions:
+* Assumptions:
