@@ -35,9 +35,9 @@
 ## Solution #3:
 * INSTRUCTIONS:
 
-* View interactive map at: https://cdn.rawgit.com/ShawnUrbach/interview/master/Solution%203/index.html 
+* View interactive map at: https://htmlpreview.github.io/?https://github.com/ShawnUrbach/interview/blob/master/Solution%203/index.html
 
-* Alternative link: https://htmlpreview.github.io/?https://github.com/ShawnUrbach/interview/blob/master/Solution%203/index.html
+* Alternative link: https://rawcdn.githack.com/ShawnUrbach/interview/master/Solution%203/index.html
 
 * ASSUMPTIONS:
 
